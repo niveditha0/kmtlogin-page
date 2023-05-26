@@ -1,0 +1,75 @@
+.breadcrumb > li {
+  list-style: none;
+  display: inline;
+}
+
+.breadcrumb a {
+  text-decoration: none;
+  color: #336699;
+}
+
+.loginheadline {
+  border-bottom: 1px solid grey;
+  font-weight: bold;
+  padding: 15px;
+}
+.kmt-loginuser-password-input {
+  margin-top: 10px;
+  padding: 7px;
+  display: inline;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+.password-container,
+.username-container,
+.loginuser-btnprimary-yellow {
+  padding: 10px;
+}
+.btn-kmt-primary-yellow {
+  padding: 8px;
+  background-color: rgb(247, 210, 4);
+  border: 3px solid transparent;
+  border-radius: 7px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.register-newuser,
+.forgotten-password {
+  font-size: 16px;
+  line-height: 10px;
+  font-weight: 300;
+  text-align: center;
+}
+.btn-kmt-secondary {
+  padding: 8px 55px;
+  background-color: white;
+  border: 2px solid #336699;
+  border-radius: 7px;
+  color: #336699;
+  width: 100%;
+}
+.loginsection {
+  min-width: 200px;
+  max-width: 300px;
+  margin: 0px auto;
+}
+.kmt-login-page__or-text {
+  position: relative;
+  margin: 32px 0;
+}
+.kmt-login-page__or-text span {
+  position: absolute;
+  padding: 0 16px;
+  top: -8px;
+  left: 50%;
+  margin-left: -27px;
+  background-color: white;
+}
+.btn-kmt-secondary:hover {
+  background-color: #336699;
+  color: white;
+}
+.kennametalempid-login {
+  text-align: center;
+}
